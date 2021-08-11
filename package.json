@@ -78,7 +78,7 @@
     "postcss-icss-selectors": "^2.0.3",
     "postcss-load-config": "^3.0.1",
     "reserved-words": "^0.1.2",
-    "sass": "^1.32.13",
+    "sass": "^1.37.5",
     "stylus": "^0.54.8",
     "tsconfig-paths": "^3.9.0"
   },
@@ -95,7 +95,7 @@
     "@types/stylus": "^0.48.34",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
-    "bootstrap": "5.0.1",
+    "bootstrap": "^5.1.0",
     "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
     "husky": "^4.2.5",
